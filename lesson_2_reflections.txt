@@ -31,5 +31,9 @@ if you have a map.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+the result is a commit that contains all the additions that were made by both branches and without any
+deletions that were made in each branch. the new commit is represented as having two parent commits 
+because its content id the result of the work that was done by both of them.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
