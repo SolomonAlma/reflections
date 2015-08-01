@@ -18,6 +18,10 @@ to the change i made and verify those changed files are united under one logical
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+branches would be useful when i am doing a major change in the idea of my application. experimenting 
+new approach. something that can be called version 2.0 of the application. branches will help by 
+seperating those two versions allowing me to experiment on version 2 while keeping version 1 intact.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
