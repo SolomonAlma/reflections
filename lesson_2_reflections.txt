@@ -24,6 +24,10 @@ seperating those two versions allowing me to experiment on version 2 while keepi
 
 How do the diagrams help you visualize the branch structure?
 
+by drawing a map of the different branches and their respective commits, i can get a full understanding
+of the existing commits and to which branch they belong. it is always easier to find your way around 
+if you have a map.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
