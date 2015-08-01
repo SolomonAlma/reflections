@@ -35,5 +35,12 @@ the result is a commit that contains all the additions that were made by both br
 deletions that were made in each branch. the new commit is represented as having two parent commits 
 because its content id the result of the work that was done by both of them.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+the pro is the very impressive ablity to automatically combine code from 2 diferent programers. git 
+does the whole combinig by it self. the only case it does not, is when the same part of the code was modified
+by both parties. then one must manually pick the best version to his opinion. to do the merging manually
+will be way more tasking and time consuming. auto merging to my opinion is the strongest ability of git 
+until now.
+
