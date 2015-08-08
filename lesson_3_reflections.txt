@@ -7,3 +7,14 @@ for, and the director merges those parts as he see fit.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I would like manual control over pulls in case other contributers made suggestions not according to what i had in mind.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks - copies an existing github repository from another user into a new repository with the same name under my github profile.
+clones - copies an existing repository be it local or remote(Github repo) into my machine.
+branches - a new and independant version of a previous set of commits. stands alone from its original branch and allows 
+           experimenting new features on it.
+I will use forks when i dont have permission to modify the original repo. 
+i will use clones when i edit advanced files and need to download them to my own machine.
+i will use branching when i want to test new features to an existing project.
+
