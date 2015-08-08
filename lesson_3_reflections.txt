@@ -18,3 +18,8 @@ I will use forks when i dont have permission to modify the original repo.
 i will use clones when i edit advanced files and need to download them to my own machine.
 i will use branching when i want to test new features to an existing project.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It is very useful when one goes off line and wants to inspect suggested changes done in the remote before actually merging them
+into his local version of the code. common examples involves working on a plane where no internet access is available.
+
