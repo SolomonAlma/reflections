@@ -28,3 +28,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 I will use emil to notify colleagues and dropbox to share files. everything will be harder because those 
 interfaces are not designed for social software development.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+i would want to use a new branch in 2 cases mainly:
+     1. when trying out a new feature on my app.
+     2. when wanting to make a puul request for an existing social project.
+the benefits of branching are conceptual order regarding new features, and the ability to add those features via pull requests
+to a bigger project.
+
